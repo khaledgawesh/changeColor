@@ -1,0 +1,21 @@
+#IDDD {
+    font-size: 3rem;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.5rem;
+    width: 130px;
+    
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+#color {
+    font-size: 3rem;
+
+}
